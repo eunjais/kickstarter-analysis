@@ -50,3 +50,5 @@ Specifically in the excel sheet, notated as the Kickstarter_Challenge, we will b
 - What are some other possible tables and/or graphs that we could create?
   
   A table/graph that compares the outcomes based on parent categories, as well as subcategories, may allow an insight into the current trends and population preferences towards specific interests. This would potentially allow prospective kickstarters to consider the viability of their project. This could be further enhanced by providing insight on goals, which would assist in kickstarters to actualize the maximum goal they could have without juxtaposing the percentage of their success. 
+
+  
